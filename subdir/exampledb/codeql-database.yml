@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: /home/jacob/projects/codeql-gettype-demo/subdir
+baselineLinesOfCode: 9
+unicodeNewlines: true
+columnKind: utf16
+primaryLanguage: javascript
+creationMetadata:
+  cliVersion: 2.17.3
+  creationTime: 2024-06-30T19:41:35.421696891Z
+finalised: true
